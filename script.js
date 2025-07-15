@@ -62,42 +62,31 @@ function renderVouchers(vouchers) {
 const vouchers = [
   {
     title: "MUA 2 TẶNG 1 - Highlands Coffee",
-    description:
-      "Ưu đãi khi mua 2 tặng 1 các thức uống Highlands. Áp dụng cho trà sữa Mochi và đá xay.",
-    img: "/images/highlands-mua2tang1.png",
+    description: "Ưu đãi khi mua 2 tặng 1 các thức uống Highlands. Áp dụng cho trà sữa Mochi và đá xay.",
+    img: "assset/High.jpg",
     link: "https://shorten.asia/WEnMq6Es",
     registered: 1020,
   },
   {
     title: "Ưu đãi The Coffee House",
-    description:
-      "Nhận voucher độc quyền từ The Coffee House. Áp dụng toàn quốc.",
-    img: "https://file.hstatic.net/1000075078/file/logo-the-coffee-house_6d1c0a87e6fc4ceea53fa9b39ac1d962.png",
-    link: "https://promothecoffeeehouse.com.vn/?utm_source=accesstrade&aff_sid=...",
+    description: "Nhận voucher độc quyền từ The Coffee House. Áp dụng toàn quốc.",
+    img: "assset/The_cooffe.jpg",
+    link: "https://promothecoffeeehouse.com.vn/?utm_source=accesstrade",
     registered: 542,
   },
   {
     title: "Ưu đãi Nhà thuốc FPT Long Châu",
-    description:
-      "Săn ưu đãi khi mua hàng tại hệ thống nhà thuốc FPT Long Châu.",
-    img: "https://nhathuoclongchau.com.vn/_next/static/media/logo.4d76c4e4.svg",
-    link: "https://nhathuoclongchau.com.vn/?utm_source=accesstrade&aff_sid=...",
+    description: "Săn ưu đãi khi mua hàng tại hệ thống nhà thuốc FPT Long Châu.",
+    img: "assset/FPT.png",
+    link: "https://nhathuoclongchau.com.vn",
     registered: 421,
   },
   {
     title: "Ưu đãi K'Phúc Sinh",
-    description:
-      "Mua cà phê, gia vị và thực phẩm hữu cơ chính hãng tại K'Phúc Sinh.",
-    img: "https://kphucsinh.vn/upload/logo/logo-fix-crop.png",
+    description: "Mua cà phê, gia vị và thực phẩm hữu cơ chính hãng tại K'Phúc Sinh.",
+    img: "assset/Logo-Phúc-Sinh-Consumer-Nen-Xanh-K-COFFEE.jpg",
     link: "https://shorten.asia/z9m2QhNr",
     registered: 198,
-  },
-  {
-    title: "AEON ESHOP",
-    description: "Hoa hồng 4.45% cho đơn hàng thành công. Đăng ký ngay!",
-    img: "https://academy.accesstrade.vn/uploads/campaigns/aeon-eshop-2022-11-04-063418.png",
-    link: "https://shorten.asia/yub2Kme6",
-    registered: 716,
   },
 ];
 
